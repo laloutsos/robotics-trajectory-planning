@@ -4,9 +4,9 @@
 This project was developed as part of a university course on Robotics. It involves the mathematical modeling, trajectory planning, and simulation of a mobile robot's movement and orientation using cubic polynomials and trapezoidal velocity profiles.
 
 ## Authors
-- Christodoulou Christos (5392)  
-- Tsakiris Dimitris (5371)  
-- Laloutsos Nikolaos (5266)
+- Christodoulou Christos 
+- Tsakiris Dimitris  
+- Laloutsos Nikolaos 
 
 ## Overview
 
